@@ -36,7 +36,7 @@ The car parking system provides the following functionalities:
 
 6. *Use Case:*
    - Initializing the Parking Lot for a specified number of cars.
-   - Adding vehicle details with timestamp values, generating a token ID for each car.
-   - Checking the validity of a token ID and timestamp to retrieve car details and calculate the total parking fee.
+   - Adding vehicle details with timestamp values.
+   - Checking the validity of a timestamp to retrieve car details and calculate the total parking fee.
    - Handling full capacity scenarios, where attempting to enter a new car displays an error message.
      

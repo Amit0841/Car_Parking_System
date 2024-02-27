@@ -5,7 +5,7 @@ This project is a simple implementation of a car parking system in Java. It supp
 
 ## Tech Stack
 
-- *Language:* Java
+- Java
 
 
 ## Getting Started

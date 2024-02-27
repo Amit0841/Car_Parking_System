@@ -12,7 +12,7 @@ This project is a simple implementation of a car parking system in Java. It supp
 
 1. *Clone the repository:*
 
-   git clone https://github.com/Amit0841/Car_Parking_System
+    **[git clone](https://github.com/Amit0841/Car_Parking_System)**   
 
 
    ## Functionality
